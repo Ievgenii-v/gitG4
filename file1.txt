@@ -1,1 +1,1 @@
-some text inside file!
+conflict will be here
